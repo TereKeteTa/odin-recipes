@@ -36,3 +36,8 @@ img {
 .desc {
     color: hsl(124, 18%, 33%);
 }
+
+.desc {
+    font-size: 20px;
+    font-family: Garamond, sans-serif ;
+}
