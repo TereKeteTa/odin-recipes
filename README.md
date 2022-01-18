@@ -4,6 +4,6 @@ https://tereketeta.github.io/odin-recipes/
 
 Create a website to hold links to multiple recipes.
 
-Toos used:  
+Toos used:
 * HTML  
 * CSS  
